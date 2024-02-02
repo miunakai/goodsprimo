@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_2" data-name="レイヤー 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 856 642">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        font-family: HiraMinProN-W3-83pv-RKSJ-H, 'Hiragino Mincho ProN';
+        font-size: 36px;
+      }
+    </style>
+  </defs>
+  <g id="_レイヤー_1-2" data-name="レイヤー 1">
+    <g>
+      <rect class="cls-1" x="332" y="285" width="199" height="72"/>
+      <rect class="cls-1" x="323" y="280" width="218" height="77"/>
+      <text class="cls-2" transform="translate(321.56 280.25)"><tspan x="0" y="0">les trouvailles</tspan><tspan x="-20.57" y="63">sont faites pour </tspan><tspan x="11.36" y="126">etre perdues</tspan></text>
+    </g>
+  </g>
+</svg>
